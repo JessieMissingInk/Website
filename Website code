@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en"></html>
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<header> Jessica Holmes </header>
+<body>
+    <h1>Jessica Holmes- Bio</h1>
+    <p>Jessica Holmes is a member elected Co-Director of Good Things Collective, Morecambe.
+        Good Things Collective are a community arts large membership CIC. 
+        She is also an active member of Creative West End, a community business partnership that aims to 
+        regenerate Morecambe through collaborative creative projects, markets, festivals & events. 
+        Jessica is currently setting up a cooperative CIC 3D animation studio called 'Random Acts Studio'
+        This studio aims to create films that are socially and environmentally engaged.
+        She is keen to begin to develop digital skills in the local community in the future through a plan to teach interns.
+       </p>
+    <h2>Education & Professional Qualifications</h2>
+    <p>2005-2008 PhD Research 'Unstable Landscapes- The archaeology of land-use in the Brecklands 
+        region of East Anglia' University of Sheffield, UK. Not completed.
+        2004-2005 2:1 MSc degree in Geoarchaeology. University of Reading, UK.
+        2000-2003 2:1 BA degree in Archaeology & Prehistory. University of Sheffield, UK.
+        2003- Awarded the 'Robert Kiln prize for Landscape and Aerial Archaeology' for undergraduate dissertation
+        1998-2000 B -A'Level Archaeology. Wolverhampton College, UK.
+                    -Level III - City & Guilds Fieldwork Archaeology, Wolverhampton College, UK.
+                    -Level II -OCN diploma Egyptology. Wolverhampton College, UK.
+        1994-1996 Merit GNVQ(Adv) Art & Design. Lancaster & Morecambe College, Lancaster, UK.
+        1989-1994 8 GCSE's above C. Lancaster Girls' Grammar School, Lancaster, UK.
+
+        04/ 2012 Logic Certificate EDSBCA- Defined scope Levels B & C Assessment 17th Edition.
+                 Logic Certificate Level A- Full scope Electrical 17th Edition, Barnsley College, UK.
+        03/ 2006 ESRI Certificate- Introduction to ARCINFO 9.
+                 ESRI Certificate- Creating, Editing & Managing Geodatabases for ARCGIS Desktop.
+    </p>
+    <h3>Skills</h3>
+    <p>- Project skills (collaboration, scheduling, negotiation & risk management).
+       - Technical skills (ARCGIS & QGIS mapping, Blender 3D modelling, sculpting, texturing & materials, 
+         UV unwrapping, rendering & compositing, video & audio editing, Meshroom 3D photogrammetry).
+       - Business skills (bookeeping & database, social media, communication & time management).
+       - Research skills (critical thinking, problem-solving, attention to detail & presentation).
+    </p>
+</body>
+</html>
