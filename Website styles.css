@@ -1,0 +1,76 @@
+.header{
+    font-family: Times New Roman;
+    font-size: 100px;
+    letter-spacing: .48px;
+    line-height: 80px;
+    color: rgb(36, 36, 36);
+    text-align: center;}
+
+body{
+    background-color: teal;}
+
+.grid-container {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+ background-color: rgb(36, 36, 36);
+ gap: 20px;
+ padding: 20px;}
+
+  .grid-item {
+    border: 1px double whitesmoke;
+    background-color: rgb(4, 28, 28);
+padding: 10px;} 
+
+.typeset-1 {
+    font-family: Times New Roman;
+    font-size: 36px;
+    letter-spacing: .48px;
+    line-height: 42px;
+    color: whitesmoke;}
+
+.typeset-2 {
+    font-family: Times New Roman;
+    font-size: 15px;
+    letter-spacing: .10px;
+    line-height: 20px;
+    color: whitesmoke;}
+
+.typeset-3 {
+    font-family: Times New Roman;
+    font-size: 15px;
+    letter-spacing: .10px;
+    line-height: 20px;
+    color: whitesmoke;
+text-align: left;}
+
+.typeset-4 {
+    font-family: Times New Roman;
+    font-size: 36px;
+    letter-spacing: .10px;
+    line-height: 20px;
+    color: whitesmoke;
+text-align: left;}
+
+.list-item-1 {
+    font-family: Times New Roman;
+    font-size: 15px;
+    letter-spacing: .10px;
+    line-height: 20px;
+    color: whitesmoke;
+text-align: left;}
+
+
+
+p::first-letter {
+    font-size: 200%;
+    color: whitesmoke;}
+
+li:hover{
+    background: teal;
+    color: black;}
+
+    @media only screen and (max-width: 640px) {
+       .grid-container {
+          background-color: teal;
+        }
+      }
